@@ -1,0 +1,1 @@
+Hello, I'm an inner file. I've just borned.
